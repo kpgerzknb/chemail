@@ -80,8 +80,6 @@ class EmlDisassembly:
         else:
             print('\033[31mUnknown Argument\033[0m')
 
-
-
 if __name__ == '__main__':
     obj = EmlDisassembly()
     obj.main()
